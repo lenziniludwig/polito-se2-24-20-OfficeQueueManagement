@@ -11,7 +11,7 @@ import CallCustomer from './components/CallCustomer/CallCustomer.jsx';
 import Officer from './components/Officer/Officer';
 
 function App() {
-
+  // Hust a change to test the fetch
   // Mi serve per testare il fetch per le statistiche
   /*const [stats2D, setStats2D]= useState([]);
   useEffect(()=>{
